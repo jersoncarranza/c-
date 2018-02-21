@@ -1,0 +1,8 @@
+c:\Users\keny\source\repos\repaso1\conexion\bin\Debug\conexion.dll
+c:\Users\keny\source\repos\repaso1\conexion\bin\Debug\conexion.pdb
+c:\Users\keny\source\repos\repaso1\conexion\bin\Debug\Entidad2.dll
+c:\Users\keny\source\repos\repaso1\conexion\bin\Debug\Entidad2.pdb
+c:\Users\keny\source\repos\repaso1\conexion\obj\Debug\conexion.csprojResolveAssemblyReference.cache
+c:\Users\keny\source\repos\repaso1\conexion\obj\Debug\conexion.csproj.CoreCompileInputs.cache
+c:\Users\keny\source\repos\repaso1\conexion\obj\Debug\conexion.dll
+c:\Users\keny\source\repos\repaso1\conexion\obj\Debug\conexion.pdb

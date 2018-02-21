@@ -1,0 +1,5 @@
+c:\Users\keny\source\repos\repaso1\Entidad2\bin\Debug\Entidad2.dll
+c:\Users\keny\source\repos\repaso1\Entidad2\bin\Debug\Entidad2.pdb
+c:\Users\keny\source\repos\repaso1\Entidad2\obj\Debug\Entidad2.csproj.CoreCompileInputs.cache
+c:\Users\keny\source\repos\repaso1\Entidad2\obj\Debug\Entidad2.dll
+c:\Users\keny\source\repos\repaso1\Entidad2\obj\Debug\Entidad2.pdb

@@ -1,0 +1,10 @@
+c:\Users\keny\source\repos\repaso1\Controlador\bin\Debug\Controlador.dll
+c:\Users\keny\source\repos\repaso1\Controlador\bin\Debug\Controlador.pdb
+c:\Users\keny\source\repos\repaso1\Controlador\bin\Debug\conexion.dll
+c:\Users\keny\source\repos\repaso1\Controlador\bin\Debug\Entidad2.dll
+c:\Users\keny\source\repos\repaso1\Controlador\bin\Debug\conexion.pdb
+c:\Users\keny\source\repos\repaso1\Controlador\bin\Debug\Entidad2.pdb
+c:\Users\keny\source\repos\repaso1\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+c:\Users\keny\source\repos\repaso1\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+c:\Users\keny\source\repos\repaso1\Controlador\obj\Debug\Controlador.dll
+c:\Users\keny\source\repos\repaso1\Controlador\obj\Debug\Controlador.pdb

@@ -1,0 +1,15 @@
+c:\users\keny\source\repos\repaso1\repaso1\bin\repaso1.dll.config
+c:\users\keny\source\repos\repaso1\repaso1\bin\repaso1.dll
+c:\users\keny\source\repos\repaso1\repaso1\bin\repaso1.pdb
+c:\users\keny\source\repos\repaso1\repaso1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\keny\source\repos\repaso1\repaso1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\keny\source\repos\repaso1\repaso1\obj\Debug\repaso1.csprojResolveAssemblyReference.cache
+c:\users\keny\source\repos\repaso1\repaso1\obj\Debug\repaso1.csproj.CoreCompileInputs.cache
+c:\users\keny\source\repos\repaso1\repaso1\obj\Debug\repaso1.dll
+c:\users\keny\source\repos\repaso1\repaso1\obj\Debug\repaso1.pdb
+c:\users\keny\source\repos\repaso1\repaso1\bin\Controlador.dll
+c:\users\keny\source\repos\repaso1\repaso1\bin\Entidad2.dll
+c:\users\keny\source\repos\repaso1\repaso1\bin\conexion.dll
+c:\users\keny\source\repos\repaso1\repaso1\bin\Controlador.pdb
+c:\users\keny\source\repos\repaso1\repaso1\bin\Entidad2.pdb
+c:\users\keny\source\repos\repaso1\repaso1\bin\conexion.pdb
